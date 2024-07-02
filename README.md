@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/LucasLima0202/LucasLima0202/assets/99288439/8d886808-b593-4511-a044-a93c8dbef48f/banner)]
+![MasterHead](https://github.com/LucasLima0202/LucasLima0202/assets/99288439/8d886808-b593-4511-a044-a93c8dbef48f/banner)
 
 <h1 align="center">Hi 👋, I'm Lucas Lima</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
