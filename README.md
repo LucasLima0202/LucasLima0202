@@ -5,7 +5,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif"/>
 
-- 🔭 I’m currently working on **my new portifolio**
+- 🔭 I’m currently working on **my new portifolio, app_controlnomy**
 
 - 🌱 I’m currently learning **React Native, Typescript, and More!**
 
