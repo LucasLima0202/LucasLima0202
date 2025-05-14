@@ -84,7 +84,7 @@
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
-<table>
+<!--<table>
 <tr>
  <td align="center">:octocat: <a href="https://www.githubwrapped.io/lucaslima0202" target="_blank">GitHub Wrapped</a></td>
  <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
@@ -101,7 +101,7 @@
  <td align="center"></td>
  <td align="center"></td>
 </tr> 
-</table>
+</table> -->
 <table>
 <tr>
  <td align="center" colspan="3"></td>
