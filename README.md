@@ -58,7 +58,95 @@
 - 📫 How to reach me **lucaslimacunha18@gmail.com**
 
 - ⚡ Fun fact **"Always Learning"**
+-----
 
+<div>
+
+<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucaslima0202&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslima0202&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslima0202&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/lucaslima0202" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+</td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+</td>
+</tr>
+<tr>
+ <td align="center"></td>
+ <td align="center"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaslima0202&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaslima0202&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaslima0202&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucaslima0202&theme=github_dark&utcOffset=8"/>
+</td>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaslima0202&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=lucaslima0202&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+ <td align="center"></td>
+</tr>
+<tr>
+ <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://lucaslima0202.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+</tr>
+<tr>
+ <td align="center"></td>
+</tr> 
+</table>
+
+</div>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/lm4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lm4s" height="30" width="40" /></a>
