@@ -1,3 +1,12 @@
+
+-----
+
+<div>
+<img align="center" alt="Header" src="https://github.com/LucasLima0202/LucasLima0202/blob/main/img/github-header-image.png"/>
+</div>
+
+-----
+
 ![MasterHead](https://github.com/LucasLima0202/LucasLima0202/assets/99288439/8d886808-b593-4511-a044-a93c8dbef48f/banner)
 
 <h1 align="center">Hi 👋, I'm Lucas Lima</h1>
