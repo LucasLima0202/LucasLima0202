@@ -2,7 +2,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" width="1200" src="https://github.com/LucasLima0202/LucasLima0202/blob/main/img/github-header-image.png"/>
+<img align="center" alt="Header" width="100%" src="https://github.com/LucasLima0202/LucasLima0202/blob/main/img/github-header-image.png"/>
 </div>
 
 -----
