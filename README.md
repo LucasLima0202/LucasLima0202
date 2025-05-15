@@ -137,9 +137,16 @@
 <tr>
  <td align="center"></td>
 </tr>
-<tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://lucaslima0202.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
-</tr>
+<!--<tr>
+ <td align="center">
+  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://lucaslima0202.github.io/image/github-user-contribution.svg?raw=true"/></a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github.com/lucaslima0202/svg/github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github.com/lucaslima0202/svg/github-user-contribution.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>
+ </td> 
+</tr>-->
 <tr>
  <td align="center"></td>
 </tr> 
