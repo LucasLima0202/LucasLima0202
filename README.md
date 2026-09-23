@@ -53,7 +53,7 @@
 
 - 🌱 I’m currently learning **React Native, Vue, AI Automation, N8N, Typescript, and More!**
 
-- 👨‍💻 All of my projects are available at [[https://portfolio-lucaslima022.netlify.app/](https://portfolio-lucaslima022.netlify.app/)](https://ll2c.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ll2c.netlify.app/](https://ll2c.netlify.app/)
 
 - 📫 How to reach me **lucaslimacunha18@gmail.com**
 
