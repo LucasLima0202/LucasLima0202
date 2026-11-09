@@ -17,9 +17,13 @@
 
 ## About
 
+<img align="right" width="300" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" alt="Coding animation">
+
 - Front-end developer from Brazil, working with Vue, React and TypeScript.
 - Building AI automations and tools for Claude Code under the **LL2C** brand.
 - Currently learning: React Native, n8n and AI agents.
+
+<br clear="right">
 
 ## Featured Projects
 
