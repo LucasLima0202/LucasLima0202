@@ -44,5 +44,5 @@ More projects: [ll2c.netlify.app](https://ll2c.netlify.app/)
 
 ## Contact
 
-- Portfolio: [ll2c.netlify.app](https://ll2c.netlify.app/)
+- Portfolio: [ll2c.vercel.app](https://ll2c.vercel.app/)
 - LinkedIn: [lucas-lima-cunha](https://www.linkedin.com/in/lucas-lima-cunha) <!-- TODO: confirm this URL -->
